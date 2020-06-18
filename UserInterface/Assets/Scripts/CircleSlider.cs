@@ -17,7 +17,7 @@
  * Edited it in Gimpshop to have the knob by itself and the notches by
  * themselves.  Would need to do lots of work to do the indicator lights.
  * 
- * I need to change the code so the knowb will go around
+ * I need to change the code so the knob will go around
  * all the way and continue back at zero or go to 360 from 0.  (Done.) 
  * The commented if statement is what limits the angle of the knob.  The 
  * commented angle assignment is what limits the transform.
